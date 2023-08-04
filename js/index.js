@@ -8,6 +8,6 @@ function Film(){
     if (film_name == "Отступники"){
         alert("да, это мой фильм")
     } else {
-        alert("попробуй ещй раз")
+        alert("попробуй ещё раз")
     }            
 }
